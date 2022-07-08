@@ -1,0 +1,43 @@
+body {
+    background-color: wheat;
+    color: rgb(161, 157, 157);
+  }
+  
+  input[type=text] {
+    margin-top: 6px;
+    height: 16px;
+    background-color: #bbac8b;
+    color: rgb(118, 7, 146);
+    border: 1px solid #e9b714;
+  }
+  
+  button[type=button]{
+    background-color: #bbac8b;
+    color: white;
+    border: 1px solid #e9b714;
+    height: 20px;
+    width: 65px;
+    padding: 0px;
+  }
+  
+  p {
+    margin-top: 10px;
+    padding-top: 5px;
+    position: relative;
+  }
+  
+  .container {
+   display: inline;
+   position: relative;
+   padding-left: 20px;
+   margin-bottom: 4px;
+   cursor: pointer;
+   font-size: 15px;
+  }
+  
+  .container input {
+   position: absolute;
+   cursor: pointer;
+   height: 0;
+   width: 0;
+  }
