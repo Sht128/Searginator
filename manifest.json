@@ -1,9 +1,9 @@
 {
-
   "manifest_version": 2,
   "name": "Searginator",
-  "description": "A Translator That is One Click Awaay",
+  "description": "A Translator That is One Click Away",
   "version": "1.0",
+  "homepage_url" : "https://github.com/Sht128/Searginator",
   "icons": {
     "48": "icons/icon.png"
   },
